@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthService481", "AuthService481.csproj", "{8C4D2D0B-9C9E-46A8-831E-EDD5F7808386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C4D2D0B-9C9E-46A8-831E-EDD5F7808386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4D2D0B-9C9E-46A8-831E-EDD5F7808386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4D2D0B-9C9E-46A8-831E-EDD5F7808386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4D2D0B-9C9E-46A8-831E-EDD5F7808386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66250B98-707C-4C6A-A84B-792FA3E25252}
+	EndGlobalSection
+EndGlobal
